@@ -89,6 +89,13 @@ https://github.com/juliakobzeff/Bash
 https://github.com/juliakobzeff/Postman
 https://github.com/juliakobzeff/SoupUI
 
+<ul>
+  <li><a href="https://github.com/juliakobzeff/Database">Database</a></li>
+  <li><a href="https://github.com/juliakobzeff/Bash">Bash</a></li>
+  <li><a href="https://github.com/juliakobzeff/Postman">Postman</a></li>
+  <li><a href="https://github.com/juliakobzeff/SoupUI">SoupUI</a></li>
+</ul>
+
 
 <!-- ### 💻 Пройденные курсы:
 
