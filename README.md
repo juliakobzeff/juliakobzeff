@@ -84,11 +84,6 @@
 
 ### ✅ Тестовые артефакты:
 
-https://github.com/juliakobzeff/Database
-https://github.com/juliakobzeff/Bash
-https://github.com/juliakobzeff/Postman
-https://github.com/juliakobzeff/SoupUI
-
 <ul>
   <li><a href="https://github.com/juliakobzeff/Database">Database</a></li>
   <li><a href="https://github.com/juliakobzeff/Bash">Bash</a></li>
