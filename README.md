@@ -8,7 +8,7 @@
 В тестировании нашла своё дело — искать ошибки, анализировать, улучшать и доводить до совершенства.
 Готова присоединиться к команде, где ценят качество, инициативу и внимание к деталям.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kobzev2@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@juliakobzeff-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juliakobzeff/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kobzev2@gmail.com)
 
 ---
 
