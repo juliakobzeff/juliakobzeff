@@ -82,6 +82,14 @@
 
 ---
 
+### ✅ Тестовые артефакты:
+
+https://github.com/juliakobzeff/Database
+https://github.com/juliakobzeff/Bash
+https://github.com/juliakobzeff/Postman
+https://github.com/juliakobzeff/SoupUI
+
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
